@@ -1,0 +1,23 @@
+table.table-row td {
+	width: 200px;
+}
+span.addToCart {
+	cursor: pointer;
+
+}
+
+table.table-check {
+	vertical-align: text-top;
+}
+span.removeFromCart {
+	text-align: center;
+	cursor: pointer;
+}
+form.rating {
+	text-align: center;
+	display: inline-block;
+}
+form.rating input{
+	padding: 0;
+	margin: 0;
+}
